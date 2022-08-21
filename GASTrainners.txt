@@ -1,0 +1,4 @@
+Pranay	B.E	22	9000
+Siddhu	B.E	23	8000
+Arvind	B.E	24	8800
+Singh	B.Tech	22	7000

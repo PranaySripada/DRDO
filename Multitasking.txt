@@ -1,0 +1,3 @@
+Sandeep	B.Pharm	26	20000
+Krishna	B.Tech	27	15000
+Rajeev	B.Tech	28	27000

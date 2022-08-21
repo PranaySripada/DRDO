@@ -1,0 +1,3 @@
+Suraj	B.Tech	25	31000
+Neeraj	B.com	26	30000
+Arjun	B.Tech	27	32000
